@@ -7,6 +7,6 @@ the tasks and codes related to it will be available here.
 <br>
 folders are created as per task name.
 <br>
-there is separate file for documentation and error handling.
+
 <br>
 
