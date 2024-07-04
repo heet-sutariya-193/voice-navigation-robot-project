@@ -1,5 +1,7 @@
 TURTLESIM:
 <br>
+In the task of turtlesim,i had performed some path operation on turtlesim.By this we got basic knowledge of writing code in ROS and also implemented differnt publisher and subscriber nodes.  
+<br>
 circle:
 <br>
 ![WhatsApp Image 2024-07-04 at 07 35 58_10302436](https://github.com/heet-sutariya-193/voice-navigation-robot-project/assets/169378041/781bdb76-85e4-4eac-b81c-2a67047d1a79)
