@@ -1,6 +1,6 @@
 TURTLESIM:
 <br>
-In the task of turtlesim,I had performed some path operation on turtlesim.By this I got basic knowledge of writing code in ROS and also implemented differnt publisher and subscriber nodes.  
+In the task of turtlesim,I had performed some path operation on turtlesim.By this I got basic knowledge of writing code in ROS and also implemented different publisher and subscriber nodes.  
 <br>
 circle:
 <br>
