@@ -33,7 +33,7 @@ in above floder topics realted to publisher,subscriber,creating nodes,more about
 **ROS5**:https://drive.google.com/drive/folders/14pIqpt8ZbJyeQpq8MNB3FaD7KQqBI3rw?usp=drive_link<br>
 in above folder Ros service is explained in detailed.
 
--> after course completion tasks for turtlesim has been given,in which differnt opertion on turtlesim has to be done.files related to turtlesim has been there in
+-> after course completion tasks for turtlesim has been given,in which different operation on turtlesim has to be done.files related to turtlesim has been there in
 **turtlesim** folder.
 
 
