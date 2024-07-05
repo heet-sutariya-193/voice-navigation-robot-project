@@ -16,7 +16,9 @@ Result of tasks will be available in respective tasks folder.
 ->Dual booting was done very easily ,but after entering to ubuntu,my screen was repeatedly getting struck or freeze,whenever i was clicking for “try ubuntu”,afterward by install option ,the problem was solved.<br>
 ->Ubuntu was installed successfully using dual-boot.<br>
 ->After that on the 18th,I started installing ROS via terminal and that was also done easily and no errors happened while installing.<br>
- ->On the 19th and 20th,I saw some videos on ROS tutorials and also implemented commands on terminal as per videos and also implemented  turtle simulation.<br>
+for ROS installation:https://wiki.ros.org/ROS/Tutorials
+
+->On the 19th and 20th,I saw some videos on ROS tutorials and also implemented commands on terminal as per videos and also implemented  turtle simulation.<br>
  link for tutorials:https://www.youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee  <br>
 ->On the 21st of June ,our meeting regarding further process in the project was held and we were told to complete the course till 26th of june and also to read the book ”Programming Robots with ROS” side by side as we complete the desired course.<br>
 
