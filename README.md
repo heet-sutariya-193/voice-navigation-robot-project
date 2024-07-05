@@ -12,6 +12,8 @@ Result of tasks will be available in respective tasks folder.
 
 **Documentation of the project is as below**
 
+**Error documentation**:https://docs.google.com/spreadsheets/d/1i_S7HlVXYZfgmwxuODDnaRYfB57gDYzvGEP3C_1o3pE/edit?usp=sharing
+
 ->So on 17th of june , i started ubuntu installation on my pc,first downloaded the desktop image for ubuntu ,then downloaded etcher for dual booting.<br>
 ->Dual booting was done very easily ,but after entering to ubuntu,my screen was repeatedly getting struck or freeze,whenever i was clicking for “try ubuntu”,afterward by install option ,the problem was solved.<br>
 ->Ubuntu was installed successfully using dual-boot.<br>
