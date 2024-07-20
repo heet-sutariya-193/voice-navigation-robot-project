@@ -58,7 +58,8 @@ Result:<br>
 
 ## turtlebot
 installation and basics:https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
-some extra code for installation<br>
+
+some extra code for installation(if error occurs than)<br>
 sudo apt-get update<br>
 sudo apt-get install ros-noetic-turtlebot3 ros-noetic-turtlebot3-msgs ros-noetic-turtlebot3-simulations
 
