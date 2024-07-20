@@ -58,6 +58,22 @@ Result:<br>
 
 ## turtlebot
 installation and basics:https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+some extra code for installation<br>
+sudo apt-get update<br>
+sudo apt-get install ros-noetic-turtlebot3 ros-noetic-turtlebot3-msgs ros-noetic-turtlebot3-simulations
+
+cd ~/catkin_ws/src<br>
+git clone https://github.com/ROBOTIS-GIT/turtlebot3.git<br>
+git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git<br>
+git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git<br>
+cd ~/catkin_ws<br>
+catkin_make<br>
+source devel/setup.bash
+
+also:
+Ensure you source the setup file for both your workspace and the ROS installation:<br>
+source /opt/ros/noetic/setup.bash<br>
+source ~/catkin_ws/devel/setup.bash<br>
 
 RESULT:<br>
 
