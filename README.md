@@ -10,7 +10,7 @@ folders are created as per task name.
 Result of tasks will be available in respective tasks folder.
 <br>
 
-**Documentation of the project is as below**
+ ## Documentation 
 
 **Error documentation**:https://docs.google.com/spreadsheets/d/1i_S7HlVXYZfgmwxuODDnaRYfB57gDYzvGEP3C_1o3pE/edit?usp=sharing
 
@@ -37,9 +37,34 @@ in above floder topics realted to publisher,subscriber,creating nodes,more about
 **ROS5**:https://drive.google.com/drive/folders/14pIqpt8ZbJyeQpq8MNB3FaD7KQqBI3rw?usp=drive_link<br>
 in above folder Ros service is explained in detailed.
 
+## turtlesim
 -> after course completion tasks for turtlesim has been given,in which different operation on turtlesim has to be done.files related to turtlesim has been there in
 **turtlesim** folder.
 
+## gazebo
+in this task basically we have to made a robot from scratch<br>
+Requirement: 2 wheels,body,sensor(which can dictact surrounding eg:camera,lidar,etc)<br>
+Reference:
+1.https://classic.gazebosim.org/tutorials
+
+2.https://youtube.com/playlist?list=PLK0b4e05LnzbHiGDGTgE_FIWpOCvndtYx&si=L_LM5ANOhBSrw9pm
+
+3.https://www.youtube.com/watch?v=_qQAfTmB5wc
+
+4.https://youtube.com/playlist?list=PLNw2RD-1J5YYvFGiMafRD_axHrBUGvuIg&si=H0-WYikt94YpSrh3
+
+Result:<br>
+![Screenshot from 2024-07-08 22-07-37](https://github.com/user-attachments/assets/724c62ea-5a24-44ee-8a0e-13f696480c17)
+
+## turtlebot
+installation and basics:https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+
+RESULT:<br>
+
+
+
+
+https://github.com/user-attachments/assets/93081a56-a075-45ef-9c4d-4fc39979ef47
 
 
 
