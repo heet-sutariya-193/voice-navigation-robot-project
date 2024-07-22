@@ -84,6 +84,10 @@ RESULT:<br>
 https://github.com/user-attachments/assets/93081a56-a075-45ef-9c4d-4fc39979ef47
 
 
+## voice recognition node
+
+
+
 
 
 
