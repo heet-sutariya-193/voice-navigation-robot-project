@@ -86,6 +86,7 @@ https://github.com/user-attachments/assets/93081a56-a075-45ef-9c4d-4fc39979ef47
 
 ## voice recognition node
 pocketsphinx website:https://pypi.org/project/pocketsphinx/
+
 gstreamer tutorial:https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.html
 
 installation:<br>
