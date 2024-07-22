@@ -85,6 +85,41 @@ https://github.com/user-attachments/assets/93081a56-a075-45ef-9c4d-4fc39979ef47
 
 
 ## voice recognition node
+pocketsphinx website:https://pypi.org/project/pocketsphinx/
+gstreamer tutorial:https://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.html
+
+installation:<br>
+Clone this repo : https://github.com/cmusphinx/pocketsphinx.git<br>
+also do not forget to do catkin_make after cloning the repo<br>
+
+sudo apt-get install build-essential bison libasound2-dev python3-dev swig<br>
+git clone https://github.com/cmusphinx/sphinxbase.git<br>
+cd sphinxbase<br>
+./autogen.sh<br>
+make,br>
+sudo make install<br>
+
+
+Install dependencies(gstreamer):<br>
+sudo apt-get update<br>
+sudo apt-get install gstreamer1.0-tools gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad<br>
+
+To verify check the version: gst-launch-1.0 --version
+
+for more plugins:
+
+sudo apt-get update<br>
+sudo apt-get install -y build-essential autoconf libtool bison swig python3-dev python3-pip python3-setuptools<br>
+sudo apt-get install -y gstreamer1.0-tools gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-bad<br>
+sudo apt-get install -y gstreamer1.0-pocketsphinx<br>
+
+For customisation of lm and dict model file:<br> 
+1.Make a dictionary file of the words you want to be recognised and keep it in the same directory as of the current files<br>
+2.Go to the official site of CMU pocketsphinx and search for generation of language model , usme ek site khul jayegi usme apni dict. File ko dalke lm file generate Karo and usko bhi usi directory mai rakhna jaha pe dict file hai<br>
+link of site:http://www.speech.cs.cmu.edu/tools/lmtool-new.html<br>
+3.code mai uska paath dena dhyan se<br>
+
+
 
 
 
