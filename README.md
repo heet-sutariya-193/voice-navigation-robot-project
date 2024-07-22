@@ -119,7 +119,7 @@ For customisation of lm and dict model file:<br>
 link of site:http://www.speech.cs.cmu.edu/tools/lmtool-new.html<br>
 3.code mai uska paath dena dhyan se<br>
 
-
+**codes are uploaded in "voice recognition node" folder**
 
 
 
